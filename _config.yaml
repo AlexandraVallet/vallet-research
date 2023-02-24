@@ -1,21 +1,20 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+title: Alexandra Vallet
+description: academic page of Alexandra Vallet
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: 
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: vallet@math.uio.no
+  google-scholar: tlhucdcAAAAJ
+  github: alexandravallet
+  twitter: Avalletresearch
+  youtube: UCI26By0P0pCdfCP0T065yUA
 
 ### advanced settings
 
