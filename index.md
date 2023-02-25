@@ -92,7 +92,7 @@ We are developping new medical technologies to assess brain fluid dynamics in-vi
 %}
 
 {% capture text %}
- Thanks to the collaboration of neurosurgeons, neurologists, radiologists and physicists we showed that brain mechanical response to intracranial vessel pulsation is associated with health deficit accumulation in a cohort of older adults with various neuropathologies. In order to understand the biological processes involved in abnormal cerebrospinal fluid dynamics, we are performing deep proteomics analysis from clinical data using data science technologies - eg. unsupervised clustering, neural network modelling.
+ Thanks to the collaboration of neurosurgeons, neurologists, radiologists and physicists we showed that brain mechanical response to intracranial vessel pulsation is associated with health deficit accumulation in a cohort of older adults with various neuropathologies. In order to understand the biological processes involved, we are now performing deep proteomics analysis from clinical data using data science technologies - eg. unsupervised clustering, neural network modelling.
 
 {%
   include link.html
