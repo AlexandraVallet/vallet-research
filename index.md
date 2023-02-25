@@ -37,7 +37,7 @@ We belive that mathematics and physics combined with measurements of intracrania
 
 {%
   include feature.html
-  image="images/particles_tracking.gif"
+  image="images/particle_tracking.gif"
   link="research"
   title="Effect of intracranial pulsatility on brain clearance"
   text=text
