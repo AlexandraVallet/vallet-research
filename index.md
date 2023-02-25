@@ -2,40 +2,28 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Brain Pulse - toward a better understanding and management of brain ageing
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our research project focuses on the role of intracranial vessel pulsation in neurodegenerative diseases. 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+Worldwide, more than 50 million people have dementia, meaning they have severe cognitive alterations that reduce their independence in daily life activities. However, in most cases, no cure exists. 
+
+We belive that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
+
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Recently, new fluid flow pathways have been discovered around blood vessels in the brain. We are showing that brain waste and nutrient transport through those pathways are strongly affected by vessel pulsatility. This open a new avenue of understanding of the brain physiology. In particular, we  show that specific wave pattern during sleep might be a key process for healthy brain clearance.
+
+  Image from [Mestre et al.]("https://www.nature.com/articles/s41467-018-07318-3")
+
 
 {%
   include link.html
@@ -49,20 +37,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/particles_tracking.gif"
   link="research"
-  title="Our Research"
+  title="Effect of intracranial pulsatility on brain clearance"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Describing the coupling between cerebral vessels and the surrounding tissues necessitates complex multi-physics multi-scale modeling tools which we are developing and validating. The brain tissue is represented as a deformable poroelastic medium where the cells are the solid part and the interstitial fluid is the fluid part. The vascular network is represented as a network of 1D pipes. 
+
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Read mode"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -71,20 +60,22 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/modeling.png"
   link="resources"
-  title="Our Resources"
+  title="Fluid - poroelastic interaction modeling"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+We are developping new medical technologies to assess brain fluid dynamics in-vivo for diagnosis and patient follow-up purpose.  We aim to develop tools combining compact electronic devices for clinical measurements, Computational Fluid Dynamics modeling tools and Artificial Intelligence.
+
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="tools"
+  text="Read mode"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -93,11 +84,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/technology.png"
+  link="resources"
+  title=" New medical technologies to assess brain fluid dynamics in-vivo"
+  flip=true
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture text %}
+ Thanks to the collaboration of neurosurgeons, neurologists, radiologists and physicists we showed that brain mechanical response to intracranial vessel pulsation is associated with health deficit accumulation in a cohort of older adults with various neuropathologies. In order to understand the biological processes involved in abnormal cerebrospinal fluid dynamics, we are performing deep proteomics analysis from clinical data using data science technologies - eg. unsupervised clustering, neural network modelling.
+
+{%
+  include link.html
+  link="team"
+  text="Read mode"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/colormap.png"
+  link="team"
+  title="Biological processes involved in brain fluid dynamics."
+  text=text
+%}
+
+
