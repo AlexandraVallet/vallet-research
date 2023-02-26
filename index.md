@@ -2,13 +2,13 @@
 title: Home
 ---
 
-# Brain Pulse - toward a better understanding and management of brain ageing
+# Toward a better understanding and management of brain ageing
 
-Our research project focuses on the role of intracranial vessel pulsation in neurodegenerative diseases. 
+My research project focuses on the role of intracranial vessel pulsation in neurodegenerative diseases. 
 
 Worldwide, more than 50 million people have dementia, meaning they have severe cognitive alterations that reduce their independence in daily life activities. However, in most cases, no cure exists. 
 
-We belive that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
+I belive that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
 
 
 {% include section.html full=true %}
@@ -20,7 +20,7 @@ We belive that mathematics and physics combined with measurements of intracrania
 # Highlights
 
 {% capture text %}
-  Recently, new fluid flow pathways have been discovered around blood vessels in the brain. We are showing that brain waste and nutrient transport through those pathways are strongly affected by vessel pulsatility. This open a new avenue of understanding of the brain physiology. In particular, we  show that specific wave pattern during sleep might be a key process for healthy brain clearance.
+  Recently, new fluid flow pathways have been discovered around blood vessels in the brain. We are showing that brain waste and nutrient transport through those pathways are strongly affected by vessel pulsatility. This opens a new avenue of understanding of brain physiology. In particular, we  show that specific wave pattern during sleep might be a key process for healthy brain clearance.
 
   Image from [Mestre et al.]("https://www.nature.com/articles/s41467-018-07318-3")
 
