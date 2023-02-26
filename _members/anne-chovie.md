@@ -1,17 +1,18 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+name: Timo Koch
+image: images/Timo.jpg
+description: Postdoctoral researcher
+field: modelling 
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: "https://timokoch.github.io/"
+  github: timokoch
+  googlescholar: NS_6FmUAAAAJ&hl
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+### Academic interests
+- Bio-fluid-mechanics and tissue perfusion
+- Mixed-dimension methods (embedded networks)
+- Flow and transport in porous media
+- Subsurface flows and soil-atmosphere coupling
+- Research software engineering
+
