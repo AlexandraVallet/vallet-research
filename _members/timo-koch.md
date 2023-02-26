@@ -1,6 +1,6 @@
 ---
 name: Timo Koch
-image: images/Timo.jpg
+image: images/people/Timo.jpg
 description: Postdoctoral researcher
 field: modelling 
 links:
