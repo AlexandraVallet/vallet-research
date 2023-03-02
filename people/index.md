@@ -5,35 +5,84 @@ nav:
   tooltip: Collaborators
 ---
 
-# <i class="fas fa-users"></i>Collaborations
+# <i class="fas fa-users"></i>SAINBIOSE
+
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="field: sainbiose"
+%}
+
+
+# <i class="fas fa-users"></i>External collaborations
 
 
 {% include section.html %}
 
-# Modelling
+## Numerical modeling
 {%
   include list.html
   data="members"
   component="portrait"
   filters="field: modelling"
 %}
+
+## Modeling of living systems
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="field: biomechanics"
 %}
+
+## Mathematics
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: mathematics"
+%}
+
+## Clinics
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: medicine"
+%}
+
+## Biology
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: biology"
+%}
+
+## Ageing
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ageing"
 %}
 {:.center}
 
 {% include section.html background="images/banner.png" dark=true%}
 
 
+# Students
+
+## previous
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: masterpast"
+%}
 
 {% include section.html %}
 
