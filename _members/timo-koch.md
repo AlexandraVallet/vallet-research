@@ -1,12 +1,12 @@
 ---
 name: Timo Koch
-image: images/Timo.jpg
+image: images/people/Timo.jpg
 description: Postdoctoral researcher
 field: modelling 
 links:
   home-page: "https://timokoch.github.io/"
   github: timokoch
-  google-scholar: NS_6FmUAAAAJ&hl
+  google-scholar: NS_6FmUAAAAJ
 ---
 
 ### Academic interests
