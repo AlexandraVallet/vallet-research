@@ -1,6 +1,6 @@
 ---
 name: Pascal Swider
-image: images/people/Pascal.jpg
+image: images/people/Pascal.png
 description: Professor
 field: biomechanics
 links:
