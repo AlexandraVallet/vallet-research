@@ -1,6 +1,6 @@
 ---
 name: Laura Bojarskaite
-image: images/people/Laura.jpg
+image: images/people/Laura.jpeg
 description: Postdoctoral researcher
 field: biology
 links:
