@@ -2,7 +2,6 @@
 name: Timo Koch
 image: images/people/Timo.jpg
 description: Postdoctoral researcher
-field: modelling 
 links:
   home-page: "https://timokoch.github.io/"
   github: timokoch
