@@ -1,6 +1,6 @@
 ---
 name: Tone Berge
-image: images/people/Tone.jpg
+image: images/people/Tone.jpeg
 description: Associate professor
 field: ageing
 links:
