@@ -1,5 +1,5 @@
 ---
-name: Tone Berg
+name: Tone Berge
 image: images/people/Tone.jpg
 description: Associate professor
 field: ageing
