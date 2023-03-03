@@ -64,6 +64,8 @@ nav:
 
 {% include section.html background="images/banner.png" dark=true%}
 
+{% include section.html %}
+
 
 # Students
 
@@ -76,7 +78,7 @@ nav:
   filters="role: masterpast"
 %}
 
-{% include section.html %}
+
 
 ## Join
 
