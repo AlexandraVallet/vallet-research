@@ -1,47 +1,29 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Brain Pulse
+  subtitle: 1D network model of blood flow in deformable vessels
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/logo.png
+  link: https://gitlab.com/
+  description: Simulation of the pulsating flows in the brain. For now only the blood flow solver is implemented in the master branch.
+  repo: ValletAlexandra/BrainPulse
   tags:
     - software
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
+- title: PVS Flow
+  group: featured
+  image: images/fluid-poroelastic.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Code for the post-processing of line-scan measurements of vessels and astrocyte endfoot diameter oscillations and simulations of CSF flow and solute transport.
+  repo: AlexandraVallet/PVSflow
   tags:
     - software
+
+- title: Lecture 
+  subtitle : Solute transport by diffusion
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/AlexandraVallet/fenicslectures/blob/main/DiffusionBrainSleep_solution.ipynb
+  description: The purpose of this notebook is to learn how to solve the diffusion equation using the finite element computing tool FEniCS. Then we propose to apply this knowledge to interpret clinical data of transport and clearance of tracer in human brain.
+  tags:
+    - resource
+    - notebook
+    - lecture
