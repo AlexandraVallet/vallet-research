@@ -17,18 +17,18 @@ I am a multi-disciplinary researcher with a deep background in physics and neuro
   include feature.html
   image="images/people/me.jpg"
   weight="50px"
-  title="Alexandra"
+  title="Alexandra Vallet"
   text=text
 %}
 
 
-I studied fluid and solid mechanics in a graduate engineering school and obtained a PhD in high energy density physics. I worked in a semi industrial context as the principal investigator for experimental campaigns on the Laser [Megajoule facility](http://www-lmj.cea.fr/index-en.html) (CEA – France). I coordinated work from several teams and used complex multi-physics, multi-code simulations to both design and interpret experiments reproducing ‘mini stars’ in the laboratory.
+I studied fluid and solid mechanics in a graduate engineering school and obtained a PhD in high energy density physics. I worked in a semi industrial context as the principal investigator for experimental campaigns on the Laser [Megajoule facility](https://www-lmj.cea.fr/) (CEA – France). I coordinated work from several teams and used complex multi-physics, multi-code simulations to both design and interpret experiments reproducing ‘mini stars’ in the laboratory.
 
-A fruitful encounter with neurosurgeon [Eric Schmidt](./members/eric-schmidt.html) and physicist [Sylvie Lorthois](./members/sylvie-lorthois.html) convinced me that current mathematical modelling capabilities, combined with existing neuroimaging technologies, provide an unprecedented opportunity to better understand brain ageing. Since 2018, I have immersed myself in neuroscience. I developed several modelling tools to predict fluid dynamics, solid deformation and fluid-structure interaction in the brain and demonstrated the potential of my transdisciplinary approach. 
+A fruitful encounter with neurosurgeon [Eric Schmidt](../members/eric-schmidt.html) and physicist [Sylvie Lorthois](../members/sylvie-lorthois.html) convinced me that current mathematical modelling capabilities, combined with existing neuroimaging technologies, provide an unprecedented opportunity to better understand brain ageing. Since 2018, I have immersed myself in neuroscience. I developed several modelling tools to predict fluid dynamics, solid deformation and fluid-structure interaction in the brain and demonstrated the potential of my transdisciplinary approach. 
 
-I am now building an interdisciplinary [research project](./index.md) about the mechanical determinants of intracranial pulsatility.
+I am now building an interdisciplinary [research project](../index.md) about the mechanical determinants of intracranial pulsatility.
 
-{% include section.html full=true %}
+{% include section.html %}
 
 ## Field of expertise
 Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction, particle transport, computational modelling, mathematical modelling,  clinical/experimental data processing, data science, brain ageing
@@ -36,9 +36,11 @@ Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.png" %}
+{% include section.html background="images/banner.png" dark=true%}
 
 {% include section.html %}
+
+# Timeline
 
 {%
   include figure.html
