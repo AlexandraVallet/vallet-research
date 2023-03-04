@@ -16,6 +16,7 @@ I am a multi-disciplinary researcher with a deep background in physics and neuro
 {%
   include feature.html
   image="images/people/me.jpg"
+  weight="50px"
   title="Alexandra"
   text=text
 %}
