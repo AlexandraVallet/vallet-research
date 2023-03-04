@@ -27,7 +27,7 @@ I belive that mathematics and physics combined with measurements of intracranial
 
 {%
   include link.html
-  link="research"
+  link="_posts\2023-03-03-naturecomms.md"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
