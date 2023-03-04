@@ -14,12 +14,7 @@ nav:
 {% include section.html %}
 
 ## Numerical modelling
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="field: modelling"
-%}
+
 
 ## Biomechanics and porous media
 {%
