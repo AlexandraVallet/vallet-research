@@ -20,7 +20,7 @@
 - title: Lecture 
   subtitle : Solute transport by diffusion
   group: featured
-  image: images/diffusion.png
+  image: images/portfolio/diffusion.png
   link: https://github.com/AlexandraVallet/fenicslectures/blob/main/DiffusionBrainSleep_solution.ipynb
   description: The purpose of this notebook is to learn how to solve the diffusion equation using the finite element computing tool FEniCS. Then we propose to apply this knowledge to interpret clinical data of transport and clearance of tracer in human brain.
   tags:
