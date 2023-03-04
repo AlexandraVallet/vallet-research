@@ -10,10 +10,10 @@ Worldwide, more than 50 million people have dementia, meaning they have severe c
 
 I belive that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
 
-
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.png" %}
+{% include section.html background="images/banner.png" dark=true%}
+
 
 {% include section.html %}
 
