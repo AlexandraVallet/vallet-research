@@ -1,67 +1,207 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41467-023-36643-5
+  title: Sleep cycle-dependent vascular dynamics in male mice and the predicted effects
+    on perivascular cerebrospinal fluid flow and solute transport
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Laura Bojarskaite
+  - Alexandra Vallet
+  - "Daniel M. Bj\xF8rnstad"
+  - Kristin M. Gullestad Binder
+  - "C\xE9line Cunen"
+  - Kjell Heuser
+  - Miroslav Kuchta
+  - Kent-Andre Mardal
+  - Rune Enger
+  publisher: Nature Communications
+  date: '2023-02-20'
+  link: https://doi.org/grv22t
+  _cache: e47d40366043d683f34948688cdbe007bf723db1df0f374ca1938226ad48eaa1
+- id: doi:10.1093/gerona/glac074
+  title: Association Between Homocysteine, Frailty and Biomechanical Response of the
+    CNS in NPH-Suspected Patients
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Sophie Guillotin
+  - Alexandra Vallet
+  - Sylvie Lorthois
+  - Philippe Cestac
+  - Eric Schmidt
+  - Nicolas Delcourt
+  publisher: 'The Journals of Gerontology: Series A'
+  date: '2022-03-24'
+  link: https://doi.org/gq73bh
+  _cache: bfb8b4f440c39226fe48142632a15aa83e5fd9176536762e7a5357ecc9301083
+- id: doi:10.1007/978-3-030-59436-7_64
+  title: 'Assessment of Pressure-Volume Index During Lumbar Infusion Study: What Is
+    the Optimal Method?'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Alexandra Vallet
+  - "Laurent Gergel\xE9"
+  - Emmanuel Jouanneau
+  - Eric A. Schmidt
+  - Romain Manet
+  publisher: Acta Neurochirurgica Supplement
+  date: '2021-01-01'
+  link: https://doi.org/grv22v
+  _cache: fe70796bffc5185b7038c7a1f43d42b17f137ab93f6479847c3f051b46435809
+- id: doi:10.1007/s00415-019-09689-z
+  title: Biomechanical response of the CNS is associated with frailty in NPH-suspected
+    patients
+  authors:
+  - A. Vallet
+  - N. Del Campo
+  - E. O. Hoogendijk
+  - A. Lokossou
+  - "O. Bal\xE9dent"
+  - Z. Czosnyka
+  - L. Balardy
+  - P. Payoux
+  - P. Swider
+  - S. Lorthois
+  - E. Schmidt
+  publisher: Journal of Neurology
+  date: '2020-01-29'
+  link: https://doi.org/ggjtrh
+  _cache: 13b601319f2dc48a792dda6469d67634ca873eac85548cff97cdd2bac853efbd
+- id: doi:10.1088/0031-8949/91/7/074005
+  title: Transient effects in unstable ablation fronts and mixing layers in HEDP
+  authors:
+  - J-M Clarisse
+  - S Gauthier
+  - L Dastugue
+  - A Vallet
+  - N Schneider
+  publisher: Physica Scripta
+  date: '2016-06-09'
+  link: https://doi.org/grv22w
+  _cache: d1d7be8900a958e735ebc858fcdaa3c035b97571581fee721d8a728288dcd7af
+- id: doi:10.1088/0741-3335/58/1/014018
+  title: Physics of laser-plasma interaction for shock ignition of fusion reactions
+  authors:
+  - V T Tikhonchuk
+  - "A Cola\xEFtis"
+  - A Vallet
+  - E Llor Aisa
+  - G Duchateau
+  - "Ph Nicola\xEF"
+  - X Ribeyre
+  publisher: Plasma Physics and Controlled Fusion
+  date: '2015-11-03'
+  link: https://doi.org/grv22x
+  _cache: 4529868a5b05beca2e544526a307a64824c20fdd0ea3e3b82cbd6aefc355c464
+- id: doi:10.1063/1.4920956
+  title: Spherical strong-shock generation for shock-ignition inertial fusiona)
+  authors:
+  - W. Theobald
+  - R. Nora
+  - W. Seka
+  - M. Lafon
+  - K. S. Anderson
+  - M. Hohenberger
+  - F. J. Marshall
+  - D. T. Michel
+  - A. A. Solodov
+  - C. Stoeckl
+  - D. H. Edgell
+  - B. Yaakobi
+  - A. Casner
+  - C. Reverdin
+  - X. Ribeyre
+  - A. Shvydky
+  - A. Vallet
+  - J. Peebles
+  - F. N. Beg
+  - M. S. Wei
+  - R. Betti
+  publisher: Physics of Plasmas
+  date: '2015-05-01'
+  link: https://doi.org/gn7mw7
+  _cache: 61ce50d52a992f9b8ea2d45a27f3971f897b4e3867a1537ae8cdaa398b6f9548
+- id: doi:10.1103/PhysRevLett.114.045001
+  title: Gigabar Spherical Shock Generation on the OMEGA Laser
+  authors:
+  - R. Nora
+  - W. Theobald
+  - R. Betti
+  - "F.\u2009J. Marshall"
+  - "D.\u2009T. Michel"
+  - W. Seka
+  - B. Yaakobi
+  - M. Lafon
+  - C. Stoeckl
+  - J. Delettrez
+  - "A.\u2009A. Solodov"
+  - A. Casner
+  - C. Reverdin
+  - X. Ribeyre
+  - A. Vallet
+  - J. Peebles
+  - "F.\u2009N. Beg"
+  - "M.\u2009S. Wei"
+  publisher: Physical Review Letters
+  date: '2015-01-27'
+  link: https://doi.org/gn7mwt
+  _cache: f8712889b1237b3eba8cb65faf33135cb7da784cca9e7eb13ff067b422064789
+- id: doi:10.1051/epjconf/20135903005
+  title: Analytical criterion for shock ignition of fusion reaction in hot spot
+  authors:
+  - X. Ribeyre
+  - V.T. Tikhonchuk
+  - J. Breil
+  - M. Lafon
+  - A. Vallet
+  - E. Le Bel
+  publisher: EPJ Web of Conferences
+  date: '2013-01-01'
+  link: https://doi.org/grv22z
+  _cache: b49587e730468bd16bf716a3c7e198c08c9762788d72e3a687dcfee30e6ca8c3
+- id: doi:10.1063/1.4817292
+  title: Finite Mach number spherical shock wave, application to shock ignition
+  authors:
+  - A. Vallet
+  - X. Ribeyre
+  - V. Tikhonchuk
+  publisher: Physics of Plasmas
+  date: '2013-08-01'
+  link: https://doi.org/gbdnv4
+  _cache: 68569a6df9bcd96970cacb269f6c35e87d138ecb4c398116805d837a098dbba2
+- id: doi:10.1007/s00192-012-1842-8
+  title: Simulation of normal pelvic mobilities in building an MRI-validated biomechanical
+    model
+  authors:
+  - Michel Cosson
+  - C. Rubod
+  - A. Vallet
+  - J. F. Witz
+  - P. Dubois
+  - M. Brieu
+  publisher: International Urogynecology Journal
+  date: '2012-06-16'
+  link: https://doi.org/f4jvg5
+  _cache: 06f38e94c38b9dfa8d9580a1cfa8dcc2a4457c5207ee01cc07669f84b1d5dcd4
+- id: doi:10.1016/s0001-4079(19)31924-7
+  title: "Mod\xE9lisation biom\xE9canique des mobilit\xE9s des organes pelviens :\
+    \ vers une m\xE9decine personnalis\xE9e"
+  authors:
+  - Michel Cosson
+  - "Chryst\xE8le Rubod"
+  - Alexandra Vallet
+  - "Jean-Fran\xE7ois Witz"
+  - Mathias Brieu
+  publisher: "Bulletin de l'Acad\xE9mie Nationale de M\xE9decine"
+  date: '2011-11-01'
+  link: https://doi.org/grv223
+  _cache: 0f137e2c587b244c7ddadacad7631989c01d38cc9283edac13f270cb391fbba2
+- id: doi:10.1080/10255842.2011.596351
+  title: 'Simulation of pelvic mobility: topology optimisation of ligamentous system'
+  authors:
+  - A. Vallet
+  - C. Rubod
+  - J. F. Witz
+  - M. Brieu
+  - M. Cosson
+  publisher: Computer Methods in Biomechanics and Biomedical Engineering
+  date: '2011-08-01'
+  link: https://doi.org/fdrz59
+  _cache: 759a501597214db0684ef77791f9e0946e8633ad37b84f021ce609cb8f0a8bcd
