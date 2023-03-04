@@ -6,6 +6,7 @@ links:
   home-page: "https://timokoch.github.io/"
   github: timokoch
   google-scholar: NS_6FmUAAAAJ
+field: modelling 
 ---
 
 ### Academic interests
