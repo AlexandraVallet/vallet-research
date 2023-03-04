@@ -16,7 +16,7 @@ I am a multi-disciplinary researcher with a deep background in physics and neuro
 {%
   include feature.html
   image="images/people/me.jpg"
-  weight="50px"
+  width="50 px"
   title="Alexandra Vallet"
   text=text
 %}
@@ -45,8 +45,7 @@ Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction
 {%
   include figure.html
   image="images/timeline.png"
-  caption="Timeline"
-  width="100 %"
+  width="90 %"
 %}
 
 
@@ -55,8 +54,8 @@ Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction
 
 {%
   include link.html
-  type="external"
-  link="./pdfs/CVNovember2022-AlexandraVallet"
+  type="link"
+  link="./pdfs/CVNovember2022-AlexandraVallet.pdf"
   icon="fab fa-scroll"
   text=""
   tooltip="See my CV"

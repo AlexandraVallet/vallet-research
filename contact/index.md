@@ -23,6 +23,7 @@ Our lab is part of the [Department of mathematics](https://www.mn.uio.no/math/en
   type="phone"
   icon=""
   text="(0033) 664006669"
+  link=""
   tooltip=""
   style="button"
 %}
