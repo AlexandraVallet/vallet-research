@@ -9,7 +9,9 @@ nav:
 
 Describing the coupling between cerebral vessels and the surrounding tissues necessitates complex multi-physics multi-scale modeling tools which we are developing and validating. The brain tissue is represented as a deformable poroelastic medium where the cells are the solid part and the interstitial fluid is the fluid part. The vascular network is represented as a network of 1D pipes. 
 
-{% include banner.html image="images/banner.png" %}
+{% include section.html full=true %}
+
+{% include section.html background="images/banner.png" dark=true%}
 
 {% include section.html %}
 
