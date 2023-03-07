@@ -11,8 +11,7 @@ nav:
   include figure.html
   image="images/people/me.jpg"
   title="Alexandra Vallet"
-  width="400px"
-  text=text
+  width="100px"
 %}
 
 
