@@ -11,7 +11,7 @@ nav:
   include figure.html
   image="images/people/me.jpg"
   title="Alexandra Vallet"
-  width="100px"
+  width="150px"
 %}
 
 
@@ -45,14 +45,5 @@ Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction
 
 
 
-# Download CV
+[# Download CV]("./pdfs/CVNovember2022-AlexandraVallet.pdf")
 
-{%
-  include link.html
-  type="link"
-  link="./pdfs/CVNovember2022-AlexandraVallet.pdf"
-  icon="fab fa-scroll"
-  text=""
-  tooltip="See my CV"
-  style="button"
-%}
