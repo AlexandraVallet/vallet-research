@@ -7,19 +7,16 @@ nav:
 
 # <i class="fas fa-face-smile-wink"></i> About me
 
-{% capture text %}
-I am a multi-disciplinary researcher with a deep background in physics and neuroscience. I believe that fundamental laws of physics and mathematical models will provide breakthroughs in our understanding and management of dementia in the same way as it transformed other fields, such as meteorology or aerospace, decades ago.
-
-{:.center}
-{% endcapture %}
-
 {%
-  include feature.html
+  include figure.html
   image="images/people/me.jpg"
   title="Alexandra Vallet"
+  width="400px"
   text=text
 %}
 
+
+I am a multi-disciplinary researcher with a deep background in physics and neuroscience. I believe that fundamental laws of physics and mathematical models will provide breakthroughs in our understanding and management of dementia in the same way as it transformed other fields, such as meteorology or aerospace, decades ago.
 
 I studied fluid and solid mechanics in a graduate engineering school and obtained a PhD in high energy density physics. I worked in a semi industrial context as the principal investigator for experimental campaigns on the Laser [Megajoule facility](https://www-lmj.cea.fr/) (CEA – France). I coordinated work from several teams and used complex multi-physics, multi-code simulations to both design and interpret experiments reproducing ‘mini stars’ in the laboratory.
 
