@@ -16,7 +16,7 @@ I am a multi-disciplinary researcher with a deep background in physics and neuro
 {%
   include feature.html
   image="images/people/me.jpg"
-  width="50px"
+  width="10px"
   title="Alexandra Vallet"
   text=text
 %}
