@@ -45,5 +45,5 @@ Biomechanics, fluid and solid mechanics, fluid-poroelastic structure interaction
 
 
 
-[# Download CV]("./pdfs/CVNovember2022-AlexandraVallet.pdf")
+ # <i class="fa-regular fa-scroll"></i> [Download CV]("../pdfs/CVNovember2022-AlexandraVallet.pdf")
 
