@@ -4,7 +4,7 @@ title: Home
 
 # BrainPulse : toward a better understanding and management of brain ageing
 
-{% include figure.html image="images/watercolor.jpg" title="Art-BrainAgeing" width="200px" %}
+{% include figure.html image="images/watercolor-ageing.png" title="Art-BrainAgeing" width="200px" %}
 
 
 
