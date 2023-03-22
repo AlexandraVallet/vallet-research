@@ -2,7 +2,11 @@
 title: Home
 ---
 
-# Toward a better understanding and management of brain ageing
+# BrainPulse : toward a better understanding and management of brain ageing
+
+{% include figure.html image="images/watercolor.jpg" title="Art-BrainAgeing" width="200px" %}
+
+
 
 My research project focuses on the role of intracranial vessel pulsation in neurodegenerative diseases. 
 
