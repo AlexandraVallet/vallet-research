@@ -27,7 +27,7 @@ I belive that mathematics and physics combined with measurements of intracranial
 
 {%
   include link.html
-  link="_posts\2023-03-03-naturecomms.md"
+  link="https://alexandra-vallet.eu/2023/03/03/naturecomms.html"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -96,8 +96,8 @@ We are developping new medical technologies to assess brain fluid dynamics in-vi
 
 {%
   include link.html
-  link="team"
-  text="Read mode"
+  link="people"
+  text="See our team"
   icon="fas fa-arrow-right"
   flip=true
 %}
