@@ -12,7 +12,7 @@ My research project focuses on the role of intracranial vessel pulsation in neur
 
 Worldwide, more than 50 million people have dementia, meaning they have severe cognitive alterations that reduce their independence in daily life activities. However, in most cases, no cure exists. 
 
-I belive that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
+I believe that mathematics and physics combined with measurements of intracranial fluid dynamics can help to better understand and characterise brain ageing. Ultimately it will provide new, outside-the-box, diagnostic approaches relevant for both preventive strategies and patient follow up.
 
 {% include section.html full=true %}
 
