@@ -74,7 +74,7 @@ Our research involves developing and validating sophisticated multi-physics and 
 
 {% capture text %}
 
-Weare developing innovative medical technologies that enable the assessment of brain fluid dynamics in vivo, for both diagnostic and patient follow-up purposes. Our goal is to create a suite of tools that integrate compact electronic devices for clinical measurements, cutting-edge Computational Fluid Dynamics modeling tools, and Artificial Intelligence algorithms. This approach will enable us to more accurately diagnose and monitor pathological brain ageing, ultimately improving patient outcomes.
+We are developing innovative medical technologies that enable the assessment of brain fluid dynamics in vivo, for both diagnostic and patient follow-up purposes. Our goal is to create a suite of tools that integrate compact electronic devices for clinical measurements, cutting-edge Computational Fluid Dynamics modeling tools, and Artificial Intelligence algorithms. This approach will enable us to more accurately diagnose and monitor pathological brain ageing, ultimately improving patient outcomes.
 
 
 {%
