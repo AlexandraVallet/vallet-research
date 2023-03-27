@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Advancing brain health care through the integration of physics-based modeling, clinical data, and engineering technology
+# Advancing brain health care through the integration of physics-based modeling, clinical data, and engineering technologies
 
 
 {% include figure.html image="images/watercolor-ageing.png" title="Art-BrainAgeing" width="300px" %}
@@ -13,7 +13,7 @@ My transdisciplinary research project offers a unique approach to understanding 
 
 Specifically, my work centers on investigating the mechanical aspects of intracranial vessel pulsation and its impact on brain health. I study how vessel pulsation can damage neurons and vessel walls, and how it affects the transport of nutrients and waste products in the brain. Additionally, I am interested in the interplay between intracranial pulsatility and biological processes that occur during brain ageing, such as vessel wall stiffening, inflammation, or abnormal protein accumulation.
 
-The main application of my research is to develop new diagnostic tools and treatment strategies for neurodegenerative diseases, which currently affect over 50 million people worldwide with no cure in most cases. By applying mathematical models and principles of physics to describe the brain, my research aims to deepen our understanding of brain ageing and develop innovative approaches to aid in prevention of dementia and patient management. Ultimately, my work seeks to enhance brain health care and improve the quality of life for those suffering from neurodegenerative diseases.
+The main application of my research is to develop new diagnostic tools and treatment strategies for neurodegenerative diseases, which currently affect over 50 million people worldwide with almost no cure. By applying mathematical models and principles of physics to describe the brain, my research aims to deepen our understanding of brain ageing and develop innovative approaches to aid in prevention of dementia and patient management. Ultimately, my work seeks to enhance brain health care and improve the quality of life for those suffering from neurodegenerative diseases.
 
 {% include section.html full=true %}
 
