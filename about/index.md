@@ -23,11 +23,11 @@ While my work was fascinating, my interest in neurodegenerative diseases was piq
 
 To pursue this interest, I shifted my focus to neuroscience and completed postdoctoral research at the ToNIC laboratory (INSERM, Toulouse, France), the IMFT laboratory (CNRS, Toulouse, France), and Kent Andre Mardal's team (mathematics department of the University of Oslo, Norway). During my postdocs, I developed several modelling tools to predict fluid dynamics, solid deformation, and fluid-structure interaction in the brain, demonstrating the potential of my transdisciplinary approach.
 
-My current [research project](../index.md) focuses on investigating the mechanical aspects of intracranial vessel pulsation and its impact on brain health. As an associate professor at the SAINBIOSE laboratory (Saint-Etienne, France), I plan to continue pursuing this research with the goal of developing innovative diagnostic tools and preventive strategies for neurodegenerative diseases.
+My current [research project](../index.md) focuses on investigating the mechanical aspects of intracranial vessel pulsation and its impact on brain health. As an associate professor at the SAINBIOSE laboratory (Saint-Etienne, France), starting in september 2023, I plan to continue pursuing this research with the goal of developing innovative diagnostic tools and preventive strategies for neurodegenerative diseases.
 
  <i class="fas fa-scroll"></i> [Download CV](../pdfs/CVNovember2022-AlexandraVallet.pdf)
 
- 
+
 {% include section.html %}
 
 ## Field of expertise
