@@ -2,7 +2,7 @@
   subtitle: 1D network model of blood flow in deformable vessels
   group: featured
   image: images/logo.png
-  link: https://gitlab.com/
+  link: https://gitlab.com/ValletAlexandra/BrainPulse
   description: Simulation of the pulsating flows in the brain. For now only the blood flow solver is implemented in the master branch.
   repo: ValletAlexandra/BrainPulse
   tags:
@@ -11,7 +11,7 @@
 - title: PVS Flow
   group: featured
   image: images/fluid-poroelastic.png
-  link: https://github.com/
+  link: https://github.com/AlexandraVallet/PVSflow
   description: Code for the post-processing of line-scan measurements of vessels and astrocyte endfoot diameter oscillations and simulations of CSF flow and solute transport.
   repo: AlexandraVallet/PVSflow
   tags:
