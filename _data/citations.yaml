@@ -1,12 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1088/1361-6579/ad0020
+  title: 'Analysis of intracranial pressure pulse waveform in studies on cerebrospinal
+    compliance: a narrative review'
+  authors:
+  - Agnieszka Kazimierska
+  - Romain Manet
+  - Alexandra Vallet
+  - Eric Schmidt
+  - Zofia Czosnyka
+  - Marek Czosnyka
+  - Magdalena Kasprowicz
+  publisher: Physiological Measurement
+  date: '2023-10-01'
+  link: https://doi.org/gs25rf
+  _cache: 2244d53cb73ccc4f254f0d6f5122fdf79faebd0899d268e0cc33da87ac9c6ad0
 - id: doi:10.1038/s41467-023-36643-5
   title: Sleep cycle-dependent vascular dynamics in male mice and the predicted effects
     on perivascular cerebrospinal fluid flow and solute transport
   authors:
-  - "Laura Bojarskaite*"
-  - "Alexandra Vallet*"
+  - Laura Bojarskaite*
+  - Alexandra Vallet*
   - "Daniel M. Bj\xF8rnstad*"
   - Kristin M. Gullestad Binder
   - "C\xE9line Cunen"
