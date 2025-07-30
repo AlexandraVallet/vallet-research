@@ -13,5 +13,19 @@
 - id: doi:10.1016/s0001-4079(19)31924-7
 - id: doi:10.1080/10255842.2011.596351
 - id: doi:10.1111/acel.14168
-- id : doi:10.1016/j.wneu.2024.05.131
 - id : doi:10.1098/rsfs.2024.0058
+- title: "Assessment of CSF Dynamics Using Infusion Study: Tips and Tricks"
+  authors:
+    - "Gianpaolo Jannelli"
+    - "Francesco Calvanese"
+    - "Alessandro Pirina"
+    - "Laurent Gergelé"
+    - "Alexandra Vallet"
+    - "Giorgio Palandri"
+    - "Marek Czosnyka"
+    - "Zofia Czosnyka"
+    - "Romain Manet"
+  publisher: "World Neurosurgery"
+  date: 2024-09-01
+  link: "https://doi.org/10.1016/j.wneu.2024.05.131"
+  tags: [CSF, infusion-test, clinical]
