@@ -69,6 +69,23 @@ nav:
 
 # Students
 
+## current PhD
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phdcurrent"
+%}
+
+## current Master students
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mastercurrent"
+%}
 ## previous
 
 {%
