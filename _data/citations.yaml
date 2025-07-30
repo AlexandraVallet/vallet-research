@@ -1,12 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1088/1361-6579/ad0020
+  title: 'Analysis of intracranial pressure pulse waveform in studies on cerebrospinal
+    compliance: a narrative review'
+  authors:
+  - Agnieszka Kazimierska
+  - Romain Manet
+  - Alexandra Vallet
+  - Eric Schmidt
+  - Zofia Czosnyka
+  - Marek Czosnyka
+  - Magdalena Kasprowicz
+  publisher: Physiological Measurement
+  date: '2023-10-01'
+  link: https://doi.org/gs25rf
+  _cache: 2244d53cb73ccc4f254f0d6f5122fdf79faebd0899d268e0cc33da87ac9c6ad0
 - id: doi:10.1038/s41467-023-36643-5
   title: Sleep cycle-dependent vascular dynamics in male mice and the predicted effects
     on perivascular cerebrospinal fluid flow and solute transport
   authors:
-  - "Laura Bojarskaite*"
-  - "Alexandra Vallet*"
+  - Laura Bojarskaite*
+  - Alexandra Vallet*
   - "Daniel M. Bj\xF8rnstad*"
   - Kristin M. Gullestad Binder
   - "C\xE9line Cunen"
@@ -205,3 +220,62 @@
   date: '2011-08-01'
   link: https://doi.org/fdrz59
   _cache: 759a501597214db0684ef77791f9e0946e8633ad37b84f021ce609cb8f0a8bcd
+- id: doi:10.1111/acel.14168
+  title: 'Cerebrospinal fluid proteomic profile of frailty: Results from the <scp>PROLIPHYC</scp>
+    cohort'
+  authors:
+  - Sophie Guillotin
+  - Amit Fulzele
+  - Alexandra Vallet
+  - Anne Gonzalez de Peredo
+  - "Emmanuelle Mouton\u2010Barbosa"
+  - Philippe Cestac
+  - Sandrine Andrieu
+  - "Odile Burlet\u2010Schiltz"
+  - Nicolas Delcourt
+  - Eric Schmidt
+  publisher: Aging Cell
+  date: '2024-05-02'
+  link: https://doi.org/g9vp55
+  _cache: 9e77809c8a8c78d8ce52a5b491398d5ed862f7195ae4ae9650f7e8348b6df2f7
+- id: doi:10.1098/rsfs.2024.0058
+  title: 'The pulsing brain: state of the art and an interdisciplinary perspective'
+  authors:
+  - Andrea Lecchini-Visintini
+  - Jacobus J. M. Zwanenburg
+  - Qiuting Wen
+  - Jennifer K. Nicholls
+  - Thomas Desmidt
+  - Stefan Catheline
+  - Jatinder S. Minhas
+  - Chiara Robba
+  - Mariia Dvoriashyna
+  - Alexandra Vallet
+  - Jeffrey Bamber
+  - Mehmet Kurt
+  - Emma M. L. Chung
+  - Samantha Holdsworth
+  - Stephen J. Payne
+  publisher: Interface Focus
+  date: '2025-04-04'
+  link: https://doi.org/g9p48s
+  _cache: e7752e2bd6fc7b543a99062c95437afc42fb861a02a1b250635aa0cb9f1ea1e6
+- title: 'Assessment of CSF Dynamics Using Infusion Study: Tips and Tricks'
+  authors:
+  - Gianpaolo Jannelli
+  - Francesco Calvanese
+  - Alessandro Pirina
+  - "Laurent Gergel\xE9"
+  - Alexandra Vallet
+  - Giorgio Palandri
+  - Marek Czosnyka
+  - Zofia Czosnyka
+  - Romain Manet
+  publisher: World  Neurosurgery
+  date: ''
+  link: https://doi.org/10.1016/j.wneu.2024.05.131
+  tags:
+  - CSF
+  - infusion-test
+  - clinical
+  _cache: f947d1a6f6318479cfba0a8b72c62130d181ed62128fe9c52de72930273990bb
