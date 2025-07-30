@@ -260,7 +260,8 @@
   date: '2025-04-04'
   link: https://doi.org/g9p48s
   _cache: e7752e2bd6fc7b543a99062c95437afc42fb861a02a1b250635aa0cb9f1ea1e6
-- title: 'Assessment of CSF Dynamics Using Infusion Study: Tips and Tricks'
+- id: doi:10.1016/j.wneu.2024.05.131
+  title: 'Assessment of CSF Dynamics Using Infusion Study: Tips and Tricks'
   authors:
   - Gianpaolo Jannelli
   - Francesco Calvanese
@@ -271,11 +272,7 @@
   - Marek Czosnyka
   - Zofia Czosnyka
   - Romain Manet
-  publisher: World  Neurosurgery
-  date: ''
-  link: https://doi.org/10.1016/j.wneu.2024.05.131
-  tags:
-  - CSF
-  - infusion-test
-  - clinical
-  _cache: f947d1a6f6318479cfba0a8b72c62130d181ed62128fe9c52de72930273990bb
+  publisher: World Neurosurgery
+  date: '2024-09-01'
+  link: https://doi.org/g9vp58
+  _cache: ae63948dee54cc31f988c3289bb925eacc84d1baea4eb23597f92822371d9100
